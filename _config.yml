@@ -11,7 +11,7 @@ email: yl2426@cornell.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome everyone this is my personal space.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.coecis.cornell.edu/yl2426" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 github_username:  jimk100
 
 # Build settings
