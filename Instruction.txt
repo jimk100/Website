@@ -1,0 +1,10 @@
+Use Jekyll to build the website
+go to YeWebsite directory then start the server
+
+~/$gem install bundler jekyll
+~/$cd YeWebsite
+~/$YeWebsite bundle exec jekyll serve  
+or
+~/$YeWebsite jekyll serve 
+# => Now browse to http://localhost:4000
+you can see the website
