@@ -1,0 +1,37 @@
+I"Ï<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+  
+    
+      <li>
+        <span class="post-meta">Jan 22, 2022</span>
+
+        <h2>
+          <a class="post-link" href="/life/2022/01/22/Niagara.html">Niagara Falls Trip</a>
+        </h2>
+      </li>
+    
+      <li>
+        <span class="post-meta">Sep 23, 2021</span>
+
+        <h2>
+          <a class="post-link" href="/life/2021/09/23/FingerLake.html">Finger Lake Ithaca</a>
+        </h2>
+      </li>
+    
+      <li>
+        <span class="post-meta">Jan 16, 2020</span>
+
+        <h2>
+          <a class="post-link" href="/life/2020/01/16/Magnum.html">Magnum Photos Introduction</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+  
+
+</div>
+:ET
